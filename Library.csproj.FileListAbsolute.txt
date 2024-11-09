@@ -1,0 +1,14 @@
+C:\Users\pc\Source\Repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\pc\Source\Repos\Library\Library\bin\Debug\Library.exe
+C:\Users\pc\Source\Repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.exe
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.pdb
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.Dashboard.resources
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.AddBook.resources
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.ViewBook.resources
+C:\Users\pc\Source\Repos\Library\Library\obj\Debug\Library.AddStudent.resources
